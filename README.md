@@ -1,2 +1,2 @@
-# interpreting-neural-nlp-models
+# Interpreting Deep NLP Models using Concept Activation Vectors
 This is the repository for our paper "Interpreting Deep NLP Models using Concept Activation Vectors". The repository contains the code to implement the methodology and also to re-produce the results.
